@@ -4,7 +4,7 @@ Requisitos para rodar a suite de testes
 
 Instalar o Python 3.x
 
-Abrir o terminal na pasta do projeto e executar o comando
+Abrir o terminal na pasta do projeto e executar o comando abaixo para instalar o robot e bibliotecas
 
 pip install -r requirements.txt
 
